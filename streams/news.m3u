@@ -77,6 +77,8 @@ https://euronews-euronews-french-3-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ExpressenTV.se" tvg-logo="https://i.imgur.com/Kt88QxS.png" group-title="News",Expressen TV 1 (720p)
 https://httpcache0-03837-cachelive2.dna.ip-only.net/03837-cachelive2/smil:03837_tx1_720p/playlist.m3u8
 
+#EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="News",Fox News Channel (720p)
+http://trn03.tulix.tv/AsEAeOtIxz/playlist.m3u8
 
 #EXTINF:-1 tvg-id="LiveNOWfromFOX.us" tvg-logo="https://i.imgur.com/1JnyzHv.png" group-title="News",FOX News Now (720p)
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
@@ -93,12 +95,8 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/FRANC
 #EXTINF:-1 tvg-id="Franceinfo.fr" tvg-logo="https://i.imgur.com/eITXz6A.png" group-title="News",Franceinfo (720p) [Not 24/7]
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/franceinfo/live
 
-#EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="News",Fox News Channel (720p)
-http://trn03.tulix.tv/AsEAeOtIxz/playlist.m3u8
-
 #EXTINF:-1 tvg-id="FreshNews.kh" tvg-logo="https://i.imgur.com/6p0TK7e.png" group-title="News",Fresh News (720p)
 http://167.99.65.12:1935/live/myStream/playlist.m3u8
-
 
 #EXTINF:-1 tvg-id="SkyNewsArabia.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Sky_News_Arabia_logo.png/512px-Sky_News_Arabia_logo.png" group-title="News",Sky News Arabia (720p) [Not 24/7]
 https://stream.skynewsarabia.com/hls/sna.m3u8
