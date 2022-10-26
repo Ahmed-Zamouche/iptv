@@ -1,3 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" status="online",RT News (1080p)
 https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-30/ngrp:srak-wx8r_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ABCNews.us" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61YDuS-81ML.png" group-title="News",ABC News (1080p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-abcnews/CDN/master.m3u8
