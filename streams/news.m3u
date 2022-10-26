@@ -1,7 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" status="online",RT News (1080p) <-0
+#EXTINF:-1 tvg-id="" status="online",RT News (1080p)
 https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-30/ngrp:srak-wx8r_all/playlist.m3u8
-#EXTINF:-1 tvg-id="" status="blocked",RT News (1080p) <-1
-https://strm.yandex.ru/kal/rt_hd/rt_hd0.m3u8
-#EXTINF:-1 tvg-id="" status="online",RT News (1080p) [Geo-blocked] <- 2
-https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
