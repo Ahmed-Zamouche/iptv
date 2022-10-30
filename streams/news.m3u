@@ -3,79 +3,79 @@
 #EXTINF:-1,AL24 News
 https://cdn02.hta.dz/abr_htatv/AL24_News/playlist.m3u8
 
-#EXTINF:-1,RT News (1080p)
+#EXTINF:-1,RT News
 https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-30/ngrp:srak-wx8r_all/playlist.m3u8
 
-#EXTINF:-1,ABC News (1080p)
+#EXTINF:-1,ABC News
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-abcnews/CDN/master.m3u8
 
-#EXTINF:-1,Al Hurra - الحرة (720p)
+#EXTINF:-1,Al Hurra - الحرة
 https://mbnv-video-ingest.akamaized.net/hls/live/2038904/MBNV_ALHURRA_MAIN_HLS/merge.m3u8
 
-#EXTINF:-1,Al Manar - المنار (576p) [Not 24/7]
+#EXTINF:-1,Al Manar - المنار
 https://manar.live/iptv/playlist.m3u8
 
-#EXTINF:-1,Al Mayadeen - الميادين (576p)
+#EXTINF:-1,Al Mayadeen - الميادين
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
 
-#EXTINF:-1,Alaraby 2 TV - العربي 2 (1080p)
+#EXTINF:-1,Alaraby 2 TV - العربي 2
 https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/playlist.m3u8
 
-#EXTINF:-1,Alaraby TV (1080p)
+#EXTINF:-1,Alaraby TV
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
 
-#EXTINF:-1,BEK TV News (720p)
+#EXTINF:-1,BEK TV News
 https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEeast.smil/playlist.m3u8
 
-#EXTINF:-1,CBS News (720p)
+#EXTINF:-1,CBS News
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 
-#EXTINF:-1,CCTV+ 1 (600p) [Not 24/7]
+#EXTINF:-1,CCTV+ 1
 https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 
-#EXTINF:-1,CCTV+ 2 (600p) [Not 24/7]
+#EXTINF:-1,CCTV+ 2
 https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
 
-#EXTINF:-1,CGTN (576p)
+#EXTINF:-1,CGTN
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 
-#EXTINF:-1,CGTN Arabic (576p) [Not 24/7]
+#EXTINF:-1,CGTN Arabic
 https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8
 
-#EXTINF:-1,CNA International (1080p)
+#EXTINF:-1,CNA International
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
-#EXTINF:-1,CNN USA (720p)
+#EXTINF:-1,CNN USA
 https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
-#EXTINF:-1,NBC News Now (1080p)
+#EXTINF:-1,NBC News Now
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
 
-#EXTINF:-1,DW Arabic (1080p)
+#EXTINF:-1,DW Arabic
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/dwarabic/live
 
-#EXTINF:-1,DW English (1080p)
+#EXTINF:-1,DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
-#EXTINF:-1,Euronews Français (720p)
+#EXTINF:-1,Euronews Français
 https://euronews-euronews-french-3-us.plex.wurl.tv/playlist.m3u8
 
-#EXTINF:-1,Expressen TV 1 (720p)
+#EXTINF:-1,Expressen TV 1
 https://httpcache0-03837-cachelive2.dna.ip-only.net/03837-cachelive2/smil:03837_tx1_720p/playlist.m3u8
 
-#EXTINF:-1,Fox News Channel (720p)
+#EXTINF:-1,Fox News Channel
 http://trn03.tulix.tv/AsEAeOtIxz/playlist.m3u8
 
-#EXTINF:-1,FOX News Now (720p)
+#EXTINF:-1,FOX News Now
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 
-#EXTINF:-1,Sky News Arabia - سكاي نيوز عربية (720p) [Not 24/7]
+#EXTINF:-1,Sky News Arabia - سكاي نيوز عربية
 https://stream.skynewsarabia.com/hls/sna.m3u8
 
-#EXTINF:-1,TRT Arabi - عربي (720p) [Not 24/7]
+#EXTINF:-1,TRT Arabi - عربي
 https://tv-trtarabi.live.trt.com.tr/master.m3u8
 
-#EXTINF:-1,TRT World (720p) [Not 24/7]
+#EXTINF:-1,TRT World
 https://tv-trtworld.live.trt.com.tr/master.m3u8
 
 #EXTINF:-1,فرانس 24
