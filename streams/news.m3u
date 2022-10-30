@@ -1,9 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1, AL24 News
+#EXTINF:-1,AL24 News
 https://cdn02.hta.dz/abr_htatv/AL24_News/playlist.m3u8
 
-#EXTINF:-1, RT News (1080p)
+#EXTINF:-1,RT News (1080p)
 https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-30/ngrp:srak-wx8r_all/playlist.m3u8
 
 #EXTINF:-1,ABC News (1080p)
