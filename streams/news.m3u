@@ -1,4 +1,8 @@
 #EXTM3U
+
+#EXTINF:-1,AL24 News
+https://cdn02.hta.dz/abr_htatv/AL24_News/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" status="online",RT News (1080p)
 https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-30/ngrp:srak-wx8r_all/playlist.m3u8
 
@@ -65,28 +69,10 @@ http://trn03.tulix.tv/AsEAeOtIxz/playlist.m3u8
 #EXTINF:-1 tvg-id="LiveNOWfromFOX.us" tvg-logo="https://i.imgur.com/1JnyzHv.png" group-title="News",FOX News Now (720p)
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="France24Arabic.fr" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="News",France 24 Arabic (1080p)
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1666826734/ei/jm1ZY-iGHobX1wL0lKywDg/ip/185.22.154.19/id/8BZpOolYLUA.4/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr2---sn-jvhixh-5gor.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/2780000/mh/ad/mip/193.150.207.190/mm/44/mn/sn-jvhixh-5gor/ms/lva/mv/m/mvi/2/pl/24/dover/11/pacing/0/keepalive/yes/fexp/24001373,24007246/mt/1666804834/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRgIhAMd84hxcdYVP-uFnWcW-zrIFzcycfIDFQEPq26oebTJoAiEA4nIYX1jC8m98d00K7CVWx3Ni4xFPrDEqU1IYeFMswuw%3D/lsparams/hls_chunk_host,initcwndbps,mh,mip,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRAIgH89ll2w_JwnX1_el_Y63Llr4KvqgRub6TilECmJChQoCIGb6ozulSXKV2c6deoF_ajC2q2sMXXj0QzWfADD4fg8J/playlist/index.m3u8
-
-#EXTINF:-1 tvg-id="France24English.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="News",France 24 English (1080p)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/FRANCE24English/live
-
-#EXTINF:-1 tvg-id="France24French.fr" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="News",France 24 French (1080p)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/FRANCE24/live
-
-#EXTINF:-1 tvg-id="Franceinfo.fr" tvg-logo="https://i.imgur.com/eITXz6A.png" group-title="News",Franceinfo (720p) [Not 24/7]
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/franceinfo/live
-
-#EXTINF:-1 tvg-id="FreshNews.kh" tvg-logo="https://i.imgur.com/6p0TK7e.png" group-title="News",Fresh News (720p)
-http://167.99.65.12:1935/live/myStream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SkyNewsArabia.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Sky_News_Arabia_logo.png/512px-Sky_News_Arabia_logo.png" group-title="News",Sky News Arabia (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="SkyNewsArabia.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Sky_News_Arabia_logo.png/512px-Sky_News_Arabia_logo.png" group-title="News",Sky News Arabia - سكاي نيوز عربية (720p) [Not 24/7]
 https://stream.skynewsarabia.com/hls/sna.m3u8
 
-#EXTINF:-1 tvg-id="TheYoungTurks.us" tvg-logo="https://i.imgur.com/XDNXJCl.png" group-title="News",The Young Turks (TYT) (1080p) [Not 24/7]
-https://tyt-xumo-us.amagi.tv/hls/amagi_hls_data_tytnetwor-tyt-xumo/CDN/master.m3u8
-
-#EXTINF:-1 tvg-id="TRTArabi.tr" tvg-logo="https://i.imgur.com/dEfI2M9.png" group-title="News",TRT Arabi (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="TRTArabi.tr" tvg-logo="https://i.imgur.com/dEfI2M9.png" group-title="News",TRT Arabi - عربي (720p) [Not 24/7]
 https://tv-trtarabi.live.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-id="TRTWorld.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/512px-TRT_World.svg.png" group-title="News",TRT World (720p) [Not 24/7]
