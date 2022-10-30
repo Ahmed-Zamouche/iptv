@@ -5,26 +5,20 @@ https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-30/ngrp:srak-wx8r_all/pl
 #EXTINF:-1 tvg-id="ABCNews.us" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61YDuS-81ML.png" group-title="News",ABC News (1080p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-abcnews/CDN/master.m3u8
 
-#EXTINF:-1 tvg-id="Alhurra.us" tvg-logo="https://i.imgur.com/9r7Hydw.png" group-title="News",Al Hurra (720p)
+#EXTINF:-1 tvg-id="Alhurra.us" tvg-logo="https://i.imgur.com/9r7Hydw.png" group-title="News",Al Hurra - الحرة (720p)
 https://mbnv-video-ingest.akamaized.net/hls/live/2038904/MBNV_ALHURRA_MAIN_HLS/merge.m3u8
 
-#EXTINF:-1 tvg-id="AlIraqiaNews.iq" tvg-logo="https://i.imgur.com/feQTXeZ.jpg" group-title="News",Al Iraqia News
-https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AlManar.lb" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/81/New_Al-Manar_logo.PNG" group-title="News",Al Manar (576p) [Not 24/7]
+#EXTINF:-1 tvg-id="AlManar.lb" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/81/New_Al-Manar_logo.PNG" group-title="News",Al Manar - المنار (576p) [Not 24/7]
 https://manar.live/iptv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AlMasirah.ye" tvg-logo="https://i.imgur.com/poHvbNV.jpg" group-title="News",Al Masirah (720p) [Not 24/7]
-https://svs.itworkscdn.net/almasiralive/almasira.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AlMayadeenTV.lb" tvg-logo="https://media.almayadeen.tv/uploads/archive/web-logo.png" group-title="News",Al Mayadeen (576p)
+#EXTINF:-1 tvg-id="AlMayadeenTV.lb" tvg-logo="https://media.almayadeen.tv/uploads/archive/web-logo.png" group-title="News",Al Mayadeen - الميادين (576p)
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Alaraby2TV.uk" tvg-logo="https://i.imgur.com/pc0eSwY.png" group-title="News",Alaraby 2 TV (1080p)
+#EXTINF:-1 tvg-id="Alaraby2TV.uk" tvg-logo="https://i.imgur.com/pc0eSwY.png" group-title="News",Alaraby 2 TV - العربي 2 (1080p)
 https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AlarabyTV.uk" tvg-logo="https://i.imgur.com/LNI1HNi.png" group-title="News",Alaraby TV (1080p)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/AlarabyTv_News/live
+https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AlghadeerTV.iq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D8%BA%D8%AF%D9%8A%D8%B1.png" group-title="News",AlGhadeer (720p) [Not 24/7]
 https://sd343444.vodu.store:3356/live/Alghadeer/index.m3u8
