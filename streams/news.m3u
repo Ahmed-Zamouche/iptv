@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,AL24 News
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/6/63/AL24News_logo_%282021%29.png", AL24 News
 https://cdn02.hta.dz/abr_htatv/AL24_News/playlist.m3u8
 
 #EXTINF:-1,RT News
