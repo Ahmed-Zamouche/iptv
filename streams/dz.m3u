@@ -13,8 +13,12 @@ https://bozztv.com/inim03/live1/giniko_canalalgerie/chunks.m3u8
 https://iptv.ipslow.com/tv211_www.elahmad.com_alegria_3/tracks-v1a1/mono.m3u8?token=5b0eac49b041b296056ac4c095ed68f93561e95d-734c50340b562749f04b5c7409ed3ef5-1687648002-1687637202
 
 #EXTINF:-1 tvg-id="TV6",الجزائرية السادسة
-#EXTVLCOPT:https://www.entv.dz/%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D8%A5%D8%AE%D8%A8%D8%A7%D8%B1%D9%8A%D8%A9/
+#EXTVLCOPT:https://www.entv.dz/%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d8%a6%d8%b1%d9%8a%d8%a9-%d8%a7%d9%84%d9%85%d8%b9%d8%b1%d9%81%d8%a9/
 https://iptv.ipslow.com/tv211_www.elahmad.com_alegria_6/tracks-v1a1/mono.m3u8?token=876fb02049826caae0a5b81a0ccdfb126f53dda7-abf0a03ba3fa2c46860757e287deeda6-1687652296-1687641496
+
+#EXTINF:-1 tvg-id="TV7",الذاكرة
+#EXTVLCOPT:https://www.entv.dz/%d8%a7%d9%84%d8%b0%d8%a7%d9%83%d8%b1%d8%a9/
+https://iptv.ipslow.com/tv211_www.elahmad.com_alegria_7/tracks-v1a1/mono.m3u8?token=8639b128f05018f0f01761754834fa4c51a92277-7f22433a5edbb63ca1687bf7ff83f758-1687653326-1687642526
 
 #EXTINF:-1 tvg-id="EchoroukNews.dz",Echorouk News (576p) [Not 24/7]
 #EXTVLCOPT:http-referrer=https://echorouk.dzsecurity.net
