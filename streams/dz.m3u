@@ -27,38 +27,35 @@ http://algerian-iptv.us.to/sami/sami2/41
 #EXTINF:-1 tvg-id="TV9",الجزائرية البرلمانية
 http://algerian-iptv.us.to/sami/sami2/1
 
-#EXTINF:-1 tvg-id="Al24News",
+#EXTINF:-1 tvg-id="Al24News",Al24News
 http://algerian-iptv.us.to/sami/sami2/8
 
-#EXTINF:-1 tvg-id="ElChourourk-0",
+#EXTINF:-1 tvg-id="ElChourourk-0",الشروق تي في
 http://algerian-iptv.us.to/sami/sami2/5
 
-#EXTINF:-1 tvg-id="ElChourourk-1",
+#EXTINF:-1 tvg-id="ElChourourk-1",الشروق تي في 
 http://algerian-iptv.us.to/sami/sami2/6
 
-#EXTINF:-1 tvg-id="Chaibia",
+#EXTINF:-1 tvg-id="Chaibia",الشعبية
 http://algerian-iptv.us.to/sami/sami2/7
 
-#EXTINF:-1 tvg-id="Samira",
+#EXTINF:-1 tvg-id="Samira",Samira
 http://algerian-iptv.us.to/sami/sami2/9
 
-#EXTINF:-1 tvg-id="ElHadef",
+#EXTINF:-1 tvg-id="ElHadef",االهداف
 http://algerian-iptv.us.to/sami/sami2/10
 
-#EXTINF:-1 tvg-id="ElBilad",
+#EXTINF:-1 tvg-id="ElBilad",البلاد
 http://algerian-iptv.us.to/sami/sami2/11
 
-#EXTINF:-1 tvg-id="ElNahar",
+#EXTINF:-1 tvg-id="ElNahar",النهار
 http://algerian-iptv.us.to/sami/sami2/12
 
 #EXTINF:-1 tvg-id="?????",
 http://algerian-iptv.us.to/sami/sami2/13
 
-#EXTINF:-1 tvg-id="BahiaTV",
+#EXTINF:-1 tvg-id="BahiaTV",Bahia TV
 http://algerian-iptv.us.to/sami/sami2/14
 
-#EXTINF:-1 tvg-id="BerberTV",
-http://algerian-iptv.us.to/sami/sami2/15
-
-#EXTINF:-1 tvg-id="BerberTV",
+#EXTINF:-1 tvg-id="BerberTV",Berber TV
 http://algerian-iptv.us.to/sami/sami2/15
