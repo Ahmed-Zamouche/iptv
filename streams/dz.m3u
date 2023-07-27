@@ -1,39 +1,64 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="TV1",الجزائرية الاولى
-#EXTVLCOPT:http-referrer=https://www.entv.dz/%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d8%a6%d8%b1%d9%8a%d8%a9-%d8%a7%d9%84%d8%a3%d9%88%d9%84%d9%89-3/
-https://iptv.ipslow.com/tv211_www.elahmad.com_alegria_1/tracks-v1a1/mono.m3u8?token=144e23387c5ffcbbdf581da29d9a268c12e6744f-78a0d5cc92b63c1024c048a729dc8f94-1687646902-1687636102
+#EXTINF:-1 tvg-id="TV1",االجزائرية الأولى
+http://algerian-iptv.us.to/sami/sami2/3
 
-#EXTINF:-1 tvg-id="TV2",قناة الجزائر 2
-#EXTVLCOPT:http-referrer=https://www.entv.dz/%d9%82%d9%86%d8%a7%d8%a9-%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d8%a6%d8%b1-2/
-https://bozztv.com/inim03/live1/giniko_canalalgerie/chunks.m3u8
+#EXTINF:-1 tvg-id="TV2",Canal Algérie
+http://algerian-iptv.us.to/sami/sami2/2
 
-#EXTINF:-1 tvg-id="TV3",قناة الجزائر 3
-#EXTVLCOPT:https://www.entv.dz/%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D8%A5%D8%AE%D8%A8%D8%A7%D8%B1%D9%8A%D8%A9/
-https://iptv.ipslow.com/tv211_www.elahmad.com_alegria_3/tracks-v1a1/mono.m3u8?token=5b0eac49b041b296056ac4c095ed68f93561e95d-734c50340b562749f04b5c7409ed3ef5-1687648002-1687637202
+#EXTINF:-1 tvg-id="TV3",الجزائرية الثالثة
+http://algerian-iptv.us.to/sami/sami2/4
+
+#EXTINF:-1 tvg-id="TV4",ⴰⵎⴰⵜⴰⴼ ⵡⵉⵙ 4
+http://algerian-iptv.us.to/sami/sami2/16
+
+#EXTINF:-1 tvg-id="TV5",الجزائرية الخامسة
+http://algerian-iptv.us.to/sami/sami2/17
 
 #EXTINF:-1 tvg-id="TV6",الجزائرية السادسة
-#EXTVLCOPT:https://www.entv.dz/%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d8%a6%d8%b1%d9%8a%d8%a9-%d8%a7%d9%84%d9%85%d8%b9%d8%b1%d9%81%d8%a9/
-https://iptv.ipslow.com/tv211_www.elahmad.com_alegria_6/tracks-v1a1/mono.m3u8?token=876fb02049826caae0a5b81a0ccdfb126f53dda7-abf0a03ba3fa2c46860757e287deeda6-1687652296-1687641496
+http://algerian-iptv.us.to/sami/sami2/18
 
-#EXTINF:-1 tvg-id="TV7",الذاكرة
-#EXTVLCOPT:https://www.entv.dz/%d8%a7%d9%84%d8%b0%d8%a7%d9%83%d8%b1%d8%a9/
-https://iptv.ipslow.com/tv211_www.elahmad.com_alegria_7/tracks-v1a1/mono.m3u8?token=8639b128f05018f0f01761754834fa4c51a92277-7f22433a5edbb63ca1687bf7ff83f758-1687653326-1687642526
+#EXTINF:-1 tvg-id="TV7",الجزائرية السابعة
+http://algerian-iptv.us.to/sami/sami2/24
 
-#EXTINF:-1 tvg-id="EchoroukNews.dz",Echorouk News (576p) [Not 24/7]
-#EXTVLCOPT:http-referrer=https://echorouk.dzsecurity.net
-https://echorouk-live-tv.dzsecurity.net/fullres/EchoroukNews_First/playlist.m3u8
+#EXTINF:-1 tvg-id="TV8",الجزائرية الثامنة
+http://algerian-iptv.us.to/sami/sami2/41
 
-#EXTINF:-1 tvg-id="EchoroukTV.dz",Echorouk TV (576p) [Not 24/7]
-#EXTVLCOPT:http-referrer=https://echorouk.dzsecurity.net
-https://echorouk-live-tv.dzsecurity.net/fullres/EchoroukTV_First/playlist.m3u8
+#EXTINF:-1 tvg-id="TV9",الجزائرية البرلمانية
+http://algerian-iptv.us.to/sami/sami2/1
 
-#EXTINF:-1 tvg-id="EnnaharTV.dz",Ennahar TV (576p) [Not 24/7] [Geo-blocked]
-#EXTVLCOPT:http-referrer=https://ennahar.dzsecurity.net
-https://ennahar-live.dzsecurity.net/fullres/EnnaharTV_First/playlist.m3u8
+#EXTINF:-1 tvg-id="Al24News",
+http://algerian-iptv.us.to/sami/sami2/8
 
-#EXTINF:-1 tvg-id="SamiraTV.dz",Samira TV (1080p)
-https://d2p6676ajpsg1j.cloudfront.net/out/v1/2daff8b433344d659bd5079224afc3ab/index.m3u8
+#EXTINF:-1 tvg-id="ElChourourk-0",
+http://algerian-iptv.us.to/sami/sami2/5
 
-#EXTINF:-1 tvg-id="SamiraTV.dz",Samira TV (1080p)
-https://shls-live-ak.akamaized.net/out/v1/2daff8b433344d659bd5079224afc3ab/index.m3u8
+#EXTINF:-1 tvg-id="ElChourourk-1",
+http://algerian-iptv.us.to/sami/sami2/6
+
+#EXTINF:-1 tvg-id="Chaibia",
+http://algerian-iptv.us.to/sami/sami2/7
+
+#EXTINF:-1 tvg-id="Samira",
+http://algerian-iptv.us.to/sami/sami2/9
+
+#EXTINF:-1 tvg-id="ElHadef",
+http://algerian-iptv.us.to/sami/sami2/10
+
+#EXTINF:-1 tvg-id="ElBilad",
+http://algerian-iptv.us.to/sami/sami2/11
+
+#EXTINF:-1 tvg-id="ElNahar",
+http://algerian-iptv.us.to/sami/sami2/12
+
+#EXTINF:-1 tvg-id="?????",
+http://algerian-iptv.us.to/sami/sami2/13
+
+#EXTINF:-1 tvg-id="BahiaTV",
+http://algerian-iptv.us.to/sami/sami2/14
+
+#EXTINF:-1 tvg-id="BerberTV",
+http://algerian-iptv.us.to/sami/sami2/15
+
+#EXTINF:-1 tvg-id="BerberTV",
+http://algerian-iptv.us.to/sami/sami2/15
