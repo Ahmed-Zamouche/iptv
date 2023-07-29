@@ -1,9 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="00-TV1" tvg-logo="https://www.entv.dz/wp-content/uploads/2019/11/%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%89-1.png",االجزائرية الأولى
+#EXTINF:-1 tvg-id="00-TV1",الجزائرية الأولى
 http://algerian-iptv.us.to/sami/sami2/3
 
-#EXTINF:-1 tvg-id="01-TV2" tvg-logo="https://www.entv.dz/wp-content/uploads/2019/11/canal-algerie-1.png",Canal Algérie
+#EXTINF:-1 tvg-id="01-TV2",Canal Algérie
 http://algerian-iptv.us.to/sami/sami2/2
 
 #EXTINF:-1 tvg-id="02-TV3",الجزائرية الثالثة
@@ -42,7 +42,7 @@ http://algerian-iptv.us.to/sami/sami2/7
 #EXTINF:-1 tvg-id="10-Samira",Samira
 http://algerian-iptv.us.to/sami/sami2/9
 
-#EXTINF:-1 tvg-id="11-ElHadef",االهداف
+#EXTINF:-1 tvg-id="11-ElHadef",الهداف
 http://algerian-iptv.us.to/sami/sami2/10
 
 #EXTINF:-1 tvg-id="12-ElBilad",البلاد
